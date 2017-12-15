@@ -1,0 +1,4 @@
+sqlalchemy
+sqlacodegen
+plotly
+funcy
