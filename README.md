@@ -4,7 +4,8 @@ Setup instructions:
 
 **NOTE**: You do not need to do this to just see the visualizations. Downloading
 `bbviz.html` and opening it in your favorite web browser will show cached
-visualizations that I made from the latest dump (`latest.tar`).
+visualizations that I made from the latest dump (`latest.tar`). An even
+easier way is to just use [RawGit](https://rawgit.com/eshansingh/bookbrainz-viz/master/bbviz.html).
 
 1. Clone this repository: `git clone https://github.com/eshansingh/bookbrainz-viz.git`
 2. If you have anaconda/virtualenv installed, create a new environment for this.
