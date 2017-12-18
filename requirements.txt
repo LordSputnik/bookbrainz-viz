@@ -2,3 +2,4 @@ sqlalchemy
 sqlacodegen
 plotly
 funcy
+validators
